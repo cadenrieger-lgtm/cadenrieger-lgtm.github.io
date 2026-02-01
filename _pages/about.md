@@ -1,11 +1,18 @@
----
-permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
+Hi and thank you for coming, this the web page of Caden Carrier-Rieger used for various job related opportunities. My hope is that this webpage will summmarize my education, experience, profiles in social media, and multiple other work-related information.
+
+Education
+======
+Institution: University of Houston
+Degree: Bachelor's degree in Computer Science
+Start Date: 06/2023
+End Date: 05/2026
+gpa: 3.271
+
+Institution: LoneStar College Montgomery
+Degree: Associate's degree in General Science
+Start Date: 08/2019
+End Date: 02/2023
+Comment: It was a dual credit program for my high school
 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
