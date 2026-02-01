@@ -27,7 +27,8 @@ author:
   name             : "Caden Carrier-Rieger"
   pronouns         : # example: "she/her"  
   bio              : #"Short biography for the left-hand sidebar"
-  location         : "9907, Common Hawker Ct., Conroe, Texas"
+  Address          : "9907 Common Hawker Ct."
+  State            : "Texas"
   employer         : #
   uri              : # URL
   email            : "caden.rieger@gmail.com" 
@@ -65,8 +66,8 @@ author:
   google_plus      : # Username
   keybase          : # Username
   instagram        : # Username
-  lastfm           : "Caden Rieger, www.linkedin.com/in/caden-rieger-5a0147301"
-  linkedin         : # Username
+  lastfm           : # UserName
+  linkedin         : "Caden Rieger, www.linkedin.com/in/caden-rieger-5a0147301"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
