@@ -3,9 +3,13 @@ Hi and thank you for coming, this the web page of Caden Carrier-Rieger used for 
 Education
 ======
 Institution: University of Houston
+
 Degree: Bachelor's degree in Computer Science
+
 Start Date: 06/2023
+
 End Date: 05/2026
+
 gpa: 3.271
 
 Institution: LoneStar College Montgomery
