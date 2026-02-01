@@ -17,7 +17,7 @@ Institution: University of Houston
 
 Degree: Bachelor's degree in Computer Science
 
-University of Houston Department Link: cs.uh.edu
+University of Houston Department Link: [cs.uh.edu]
 
 Start Date: 06/2023
 
@@ -39,4 +39,4 @@ Comment: It was a dual credit program for my high school
 
 Resume Link
 =======
-Resume (Google Drive Link): (https://drive.google.com/file/d/14LdMnDO0TQTN4uQDRbXlRzvEdz2H2fl0/view?usp=sharing)
+Resume (Google Drive Link): [https://drive.google.com/file/d/14LdMnDO0TQTN4uQDRbXlRzvEdz2H2fl0/view?usp=sharing]
