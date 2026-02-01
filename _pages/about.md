@@ -8,6 +8,8 @@ Institution: University of Houston
 
 Degree: Bachelor's degree in Computer Science
 
+University of Houston Department Link: cs.uh.edu
+
 Start Date: 06/2023
 
 End Date: 05/2026
